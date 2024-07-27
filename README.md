@@ -39,10 +39,10 @@ Analyzing bike rental patterns with data including season, year, month, hour, ho
 
 ## 📫 How to reach me
 
-- LinkedIn: [John Doe](https://linkedin.com/in/johndoe)
-- Email: [johndoe@example.com](mailto:johndoe@example.com)
+- LinkedIn: [Sai vardhan](https://linkedin.com/in/sai-vardhan522b)
+- Email: [johndoe@example.com](mailto:saivardhan9154@gmail.com)
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saivardhan655&show_icons=true&theme=radical)
 
