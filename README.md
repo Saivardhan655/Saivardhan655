@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I am a final year Bachelor of Computer Science and Engineering (CSE) student with a passion for developing innovative projects. My expertise includes:
+I am a final year Bachelor of Computer Science and Engineering (CSE) student with a passion for developing innovative projects and an interest in working as a machine learning models. My expertise includes:
 
 - Java
 - Data Structures and Algorithms (DSA)
@@ -40,7 +40,7 @@ Analyzing bike rental patterns with data including season, year, month, hour, ho
 ## 📫 How to reach me
 
 - LinkedIn: [Sai vardhan](https://linkedin.com/in/sai-vardhan522b)
-- Email: [johndoe@example.com](mailto:saivardhan9154@gmail.com)
+- Email: [saivardhan9154@gmail.com](mailto:saivardhan9154@gmail.com)
 
 ## 📈 GitHub Stats
 
