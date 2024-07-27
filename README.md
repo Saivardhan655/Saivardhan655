@@ -1,6 +1,6 @@
 # Hi there, I'm Sai Vardhan 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=johndoe&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?Saivardhan655=johndoe&color=blue)
 
 ## 🚀 About Me
 
