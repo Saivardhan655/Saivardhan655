@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I am a final year Bachelor of Computer Science and Engineering (CSE) student with a passion for developing innovative projects and an interest in working as a machine learning models. My expertise includes:
+I am a final year Bachelor of Computer Science and Engineering (CSE) student with a passion for developing innovative projects and an interest in working as a machine learning Engineer. My expertise includes:
 
 - Java
 - Data Structures and Algorithms (DSA)
