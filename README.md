@@ -28,9 +28,6 @@ Developed using linear regression to predict IPL scores.
 ### 4. [Diamond Price Prediction](https://github.com/johndoe/diamond-price-prediction)
 An end-to-end project with data pipelines, continuous integration using GitHub Actions, logging, and exception handling.
 
-### 5. [Bike Rental Analysis](https://github.com/johndoe/bike-rental-analysis)
-Analyzing bike rental patterns with data including season, year, month, hour, holiday, weekday, working day, weather situation, temperature, humidity, and count of bike rentals.
-
 ## 🌱 Currently Learning
 
 - Autonomous vehicle navigation algorithms (object detection, path planning, control systems)
