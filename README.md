@@ -1,8 +1,5 @@
 # Hi there, I'm Sai Vardhan 👋
-
-| ![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMh2Bx2oNJrnV32SAF6wH-TA232RlmKDYG7Q&s) | **Welcome to my blog platform** <br> I am a passionate developer focused on building full-stack web applications and working on machine learning tasks. <br> 🔥 **Check out my latest projects below!** |
-|:---:|:---|
-
+![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMh2Bx2oNJrnV32SAF6wH-TA232RlmKDYG7Q&s)
 I am a Machine Learning enthusiast and a final year student pursuing a Bachelor's degree in Computer Science and Engineering. I have a keen interest in developing algorithms for autonomous driving, working with datasets for machine learning tasks, and building full-stack applications.
 
 ## 🚀 Projects
@@ -25,7 +22,7 @@ I am a Machine Learning enthusiast and a final year student pursuing a Bachelor'
 - Implemented continuous integration using GitHub Actions.
 
 ### 5. To-Do App
-- Created using React with state management via `useReducer` and `createContext`.
+- Created using React with state management via useReducer and createContext.
 - Managed to-do items in an array with due dates.
 
 ### 6. Blogs Website
@@ -46,5 +43,3 @@ I am a Machine Learning enthusiast and a final year student pursuing a Bachelor'
 - Phone No: 9154466560
 
 Feel free to check out my repositories and reach out if you have any questions or collaboration ideas!
-
-
