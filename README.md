@@ -1,6 +1,6 @@
 # Hi there, I'm Sai Vardhan 👋
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMh2Bx2oNJrnV32SAF6wH-TA232RlmKDYG7Q&s" alt="Alt Text" width="400">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Alt Text" width="400">
 </p>
 
 I am a Machine Learning enthusiast and a final year student pursuing a Bachelor's degree in Computer Science and Engineering. I have a keen interest in developing algorithms for autonomous driving, working with datasets for machine learning tasks, and building full-stack applications.
