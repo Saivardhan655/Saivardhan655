@@ -38,7 +38,7 @@ I am a Machine Learning enthusiast and a final year student pursuing a Bachelor'
 
 ## 📫 How to reach me
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [saivardhan9154@gmail.com](mailto:your-email@example.com)
 
 Feel free to check out my repositories and reach out if you have any questions or collaboration ideas!
 
