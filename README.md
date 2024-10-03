@@ -35,6 +35,7 @@ I am a Machine Learning enthusiast and a final year student pursuing a Bachelor'
 - Autonomous Vehicles
 - Full-Stack Development
 - Data Science
+![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMh2Bx2oNJrnV32SAF6wH-TA232RlmKDYG7Q&s)
 
 ## 📫 How to reach me
 - LinkedIn: [Chinuri Sai Vardhan Reddy](https://www.linkedin.com/in/sai-vardhan522b)
