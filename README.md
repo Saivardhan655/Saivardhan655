@@ -39,7 +39,7 @@ I am a Machine Learning enthusiast and a final year student pursuing a Bachelor'
 ## 📫 How to reach me
 - LinkedIn: [Chinuri Sai Vardhan Reddy](https://www.linkedin.com/in/sai-vardhan522b)
 - Email: [saivardhan9154@gmail.com](mailto:your-email@example.com)
-- Phone No-[9154466560]
+- Phone No: 9154466560
 
 Feel free to check out my repositories and reach out if you have any questions or collaboration ideas!
 
