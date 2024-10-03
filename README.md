@@ -1,45 +1,45 @@
 # Hi there, I'm Sai Vardhan 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Saivardhan655&color=blue)
+I am a Machine Learning enthusiast and a final year student pursuing a Bachelor's degree in Computer Science and Engineering. I have a keen interest in developing algorithms for autonomous driving, working with datasets for machine learning tasks, and building full-stack applications.
 
+## 🚀 Projects
 
-## 🚀 About Me
+### 1. Breast Cancer Prediction
+- Developed a prediction model using logistic regression.
+- Utilized grid search CV for hyperparameter tuning.
+- Built a front-end using Flask.
 
-I am a final year Bachelor of Computer Science and Engineering (CSE) student with a passion for developing innovative projects and an interest in working as a machine learning Engineer. My expertise includes:
+### 2. Human Action Recognition
+- Implemented a video classification model using ResNet50.
+- Employed TensorFlow and Keras for model development.
+- Managed callbacks for improved training efficiency.
 
-- Java
-- Data Structures and Algorithms (DSA)
-- Computer Networks
-- Operating Systems
-- Database Management Systems (SQL)
-- Machine Learning and Deep Learning
+### 3. IPL Score Predictor
+- Developed a score prediction model using linear regression.
 
-## 🛠️ Projects
+### 4. Diamond Price Prediction
+- Built an end-to-end project with data pipelines.
+- Implemented continuous integration using GitHub Actions.
 
-### 1. [Breast Cancer Prediction](https://github.com/johndoe/breast-cancer-prediction)
-A project using logistic regression and GridSearchCV for hyperparameter tuning, with a Flask-based frontend.
+### 5. To-Do App
+- Created using React with state management via `useReducer` and `createContext`.
+- Managed to-do items in an array with due dates.
 
-### 2. [Human Action Recognition](https://github.com/johndoe/human-action-recognition)
-Implemented using ResNet50 for video classification, classifying videos from URLs, and saving the trained model.
+### 6. Blogs Website
+- Developed a blog platform with post creation and comment functionality.
+- Implemented image and video uploads using multer and Cloudinary.
+- Added a recommender system to enhance user experience.
 
-### 3. [IPL Score Predictor](https://github.com/johndoe/ipl-score-predictor)
-Developed using linear regression to predict IPL scores.
-
-### 4. [Diamond Price Prediction](https://github.com/johndoe/diamond-price-prediction)
-An end-to-end project with data pipelines, continuous integration using GitHub Actions, logging, and exception handling.
-
-## 🌱 Currently Learning
-
-- Autonomous vehicle navigation algorithms (object detection, path planning, control systems)
-- Advanced machine learning techniques
-- Continuous integration and deployment practices
+## 💡 Interests
+- Machine Learning
+- Autonomous Vehicles
+- Full-Stack Development
+- Data Science
 
 ## 📫 How to reach me
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- Email: [your-email@example.com](mailto:your-email@example.com)
 
-- LinkedIn: [Sai vardhan](https://linkedin.com/in/sai-vardhan522b)
-- Email: [saivardhan9154@gmail.com](mailto:saivardhan9154@gmail.com)
+Feel free to check out my repositories and reach out if you have any questions or collaboration ideas!
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saivardhan655&show_icons=true&theme=radical)
 
