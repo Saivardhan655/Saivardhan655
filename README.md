@@ -31,21 +31,21 @@ I am a **Machine Learning enthusiast** and a final-year student pursuing a **Bac
 - Implemented image and video uploads using multer and Cloudinary for media-rich posts.
 - Designed a custom recommender system to enhance user engagement and discovery.
 
-### 7. Stock Price Predictor (New)
+### 7. Stock Price Predictor
 - Built a stock price prediction application using Python and Django.
 - Integrated data extraction, analysis, and prediction functionalities for stock trend insights.
 
-### 8. Rule Engine for Eligibility Evaluation (New)
+### 8. Rule Engine for Eligibility Evaluation
 - Developed a rule engine using Abstract Syntax Tree (AST) to determine user eligibility.
 - Supports dynamic rule creation, combination, and modification.
 - Created a frontend to test and visualize rule evaluation.
 
-### 9. Weather App with Real-Time Alerts (New)
+### 9. Weather App with Real-Time Alerts
 - Dockerized app featuring a backend (with PostgreSQL) and frontend.
 - Integrated Kafka for data stream processing and real-time weather alerts.
 - Added visualizations for daily summaries, historical trends, and triggered alerts.
 
-### 10. Attentiveness Tracking for Lectures (New)
+### 10. Attentiveness Tracking for Lectures
 - Built a system to track students’ attentiveness and expressions during lectures or meetings.
 - Provides real-time feedback on student engagement, supporting enhanced teaching strategies.
 
