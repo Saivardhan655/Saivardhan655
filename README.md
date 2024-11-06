@@ -1,47 +1,64 @@
 # Hi there, I'm Sai Vardhan 👋
 ![Alt Text](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 
-
-I am a Machine Learning enthusiast and a final year student pursuing a Bachelor's degree in Computer Science and Engineering. I have a keen interest in developing algorithms for autonomous driving, working with datasets for machine learning tasks, and building full-stack applications.
+I am a **Machine Learning enthusiast** and a final-year student pursuing a **Bachelor's degree in Computer Science and Engineering**. I'm passionate about developing cutting-edge algorithms for autonomous driving, leveraging machine learning for impactful insights, and building full-stack applications with seamless user experiences.
 
 ## 🚀 Projects
 
 ### 1. Breast Cancer Prediction
-- Developed a prediction model using logistic regression.
-- Utilized grid search CV for hyperparameter tuning.
-- Built a front-end using Flask.
+- Created a prediction model using logistic regression.
+- Enhanced model performance with grid search CV for hyperparameter tuning.
+- Built an interactive front end with Flask.
 
 ### 2. Human Action Recognition
-- Implemented a video classification model using ResNet50.
-- Employed TensorFlow and Keras for model development.
-- Managed callbacks for improved training efficiency.
+- Developed a video classification model using ResNet50.
+- Leveraged TensorFlow and Keras for model architecture and training.
+- Incorporated callbacks for optimal training management.
 
 ### 3. IPL Score Predictor
-- Developed a score prediction model using linear regression.
+- Built a score prediction model using linear regression to forecast IPL scores.
 
 ### 4. Diamond Price Prediction
-- Built an end-to-end project with data pipelines.
-- Implemented continuous integration using GitHub Actions.
+- Completed an end-to-end project with data pipelines.
+- Set up continuous integration via GitHub Actions for automated testing and deployment.
 
 ### 5. To-Do App
-- Created using React with state management via useReducer and createContext.
-- Managed to-do items in an array with due dates.
+- Developed with React, using `useReducer` and `createContext` for efficient state management.
+- Allows tracking to-do items with due dates, deployed on Render.
 
 ### 6. Blogs Website
-- Developed a blog platform with post creation and comment functionality.
-- Implemented image and video uploads using multer and Cloudinary.
-- Added a recommender system to enhance user experience.
+- Created a blog platform featuring post creation, commenting, and a recommender system.
+- Implemented image and video uploads using multer and Cloudinary for media-rich posts.
+- Designed a custom recommender system to enhance user engagement and discovery.
+
+### 7. Stock Price Predictor (New)
+- Built a stock price prediction application using Python and Django.
+- Integrated data extraction, analysis, and prediction functionalities for stock trend insights.
+
+### 8. Rule Engine for Eligibility Evaluation (New)
+- Developed a rule engine using Abstract Syntax Tree (AST) to determine user eligibility.
+- Supports dynamic rule creation, combination, and modification.
+- Created a frontend to test and visualize rule evaluation.
+
+### 9. Weather App with Real-Time Alerts (New)
+- Dockerized app featuring a backend (with PostgreSQL) and frontend.
+- Integrated Kafka for data stream processing and real-time weather alerts.
+- Added visualizations for daily summaries, historical trends, and triggered alerts.
+
+### 10. Attentiveness Tracking for Lectures (New)
+- Built a system to track students’ attentiveness and expressions during lectures or meetings.
+- Provides real-time feedback on student engagement, supporting enhanced teaching strategies.
 
 ## 💡 Interests
 - Machine Learning
 - Autonomous Vehicles
 - Full-Stack Development
 - Data Science
-
+- Real-Time Data Processing
 
 ## 📫 How to reach me
 - LinkedIn: [Chinuri Sai Vardhan Reddy](https://www.linkedin.com/in/sai-vardhan522b)
-- Email: [saivardhan9154@gmail.com](mailto:your-email@example.com)
-- Phone No: 9154466560
+- Email: [saivardhan9154@gmail.com](mailto:saivardhan9154@gmail.com)
+- Phone No: +91 9154466560
 
-Feel free to check out my repositories and reach out if you have any questions or collaboration ideas!
+Feel free to explore my repositories and reach out for questions, ideas, or collaboration opportunities!
