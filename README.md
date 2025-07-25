@@ -1,64 +1,89 @@
+---
+
 # Hi there, I'm Sai Vardhan 👋
+
 ![Alt Text](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 
-I am a **Machine Learning enthusiast** and a final-year student pursuing a **Bachelor's degree in Computer Science and Engineering**. I'm passionate about developing cutting-edge algorithms for autonomous driving, leveraging machine learning for impactful insights, and building full-stack applications with seamless user experiences.
+I’m an **AI Engineer at Arcadis** and a passionate **Machine Learning enthusiast** with a Bachelor's degree in **Computer Science and Engineering**. I specialize in building intelligent systems that solve real-world problems—ranging from human action recognition to dynamic rule engines and real-time alerting platforms.
 
-## 🚀 Projects
+My work spans **computer vision**, **real-time data processing**, **full-stack development**, and **ML-driven automation** for urban mobility, infrastructure analytics, and intelligent monitoring.
 
-### 1. Breast Cancer Prediction
-- Created a prediction model using logistic regression.
-- Enhanced model performance with grid search CV for hyperparameter tuning.
-- Built an interactive front end with Flask.
+---
 
-### 2. Human Action Recognition
-- Developed a video classification model using ResNet50.
-- Leveraged TensorFlow and Keras for model architecture and training.
-- Incorporated callbacks for optimal training management.
+## 🚀 Featured Projects
 
-### 3. IPL Score Predictor
-- Built a score prediction model using linear regression to forecast IPL scores.
+### 1. **Breast Cancer Prediction**
 
-### 4. Diamond Price Prediction
-- Completed an end-to-end project with data pipelines.
-- Set up continuous integration via GitHub Actions for automated testing and deployment.
+* Developed a predictive model using **Logistic Regression**.
+* Tuned hyperparameters using **Grid Search CV**.
+* Deployed an interactive UI via **Flask** for real-time predictions.
 
-### 5. To-Do App
-- Developed with React, using `useReducer` and `createContext` for efficient state management.
-- Allows tracking to-do items with due dates, deployed on Render.
+### 2. **Human Action Recognition**
 
-### 6. Blogs Website
-- Created a blog platform featuring post creation, commenting, and a recommender system.
-- Implemented image and video uploads using multer and Cloudinary for media-rich posts.
-- Designed a custom recommender system to enhance user engagement and discovery.
+* Built a **video classification system** using **ResNet50**.
+* Utilized **TensorFlow** and **Keras** for deep learning pipeline.
+* Integrated training callbacks for performance optimization.
 
-### 7. Stock Price Predictor
-- Built a stock price prediction application using Python and Django.
-- Integrated data extraction, analysis, and prediction functionalities for stock trend insights.
+### 3. **IPL Score Predictor**
 
-### 8. Rule Engine for Eligibility Evaluation
-- Developed a rule engine using Abstract Syntax Tree (AST) to determine user eligibility.
-- Supports dynamic rule creation, combination, and modification.
-- Created a frontend to test and visualize rule evaluation.
+* Implemented a **Linear Regression** model to forecast match scores.
+* Extracted meaningful features to improve accuracy during innings.
 
-### 9. Weather App with Real-Time Alerts
-- Dockerized app featuring a backend (with PostgreSQL) and frontend.
-- Integrated Kafka for data stream processing and real-time weather alerts.
-- Added visualizations for daily summaries, historical trends, and triggered alerts.
+### 4. **Diamond Price Prediction**
 
-### 10. Attentiveness Tracking for Lectures
-- Built a system to track students’ attentiveness and expressions during lectures or meetings.
-- Provides real-time feedback on student engagement, supporting enhanced teaching strategies.
+* Built an end-to-end ML pipeline with preprocessing and validation.
+* Used **CI/CD** via **GitHub Actions** for automated testing and deployment.
+
+### 5. **To-Do App**
+
+* Created with **React**, leveraging `useReducer` and `Context API` for state management.
+* Deployed on **Render**, supports tracking with due dates and local storage sync.
+
+### 6. **Blogs Website**
+
+* Designed a blog platform with post creation, **commenting**, and **media uploads**.
+* Used **Multer + Cloudinary** for rich media support.
+* Built a **custom recommender system** to boost content discovery.
+
+### 7. **Stock Price Predictor**
+
+* A Django-based web app for predicting stock trends.
+* Combined data ingestion, feature analysis, and regression modeling.
+
+### 8. **Rule Engine for Eligibility Evaluation**
+
+* Engineered a rule evaluator using **Python AST (Abstract Syntax Trees)**.
+* Enables **dynamic rule creation, validation**, and combination.
+* Developed a user interface for live testing and visualization.
+
+### 9. **Weather App with Real-Time Alerts**
+
+* Dockerized microservices using **PostgreSQL** and **Kafka** for event streaming.
+* Provides real-time alerts, trend visualizations, and historical weather data.
+
+### 10. **Attentiveness Tracking in Virtual Lectures**
+
+* Tracks **student attentiveness**, facial expressions, and emotions.
+* Offers **real-time engagement feedback** for instructors using computer vision models.
+
+---
 
 ## 💡 Interests
-- Machine Learning
-- Autonomous Vehicles
-- Full-Stack Development
-- Data Science
-- Real-Time Data Processing
 
-## 📫 How to reach me
-- LinkedIn: [Chinuri Sai Vardhan Reddy](https://www.linkedin.com/in/sai-vardhan522b)
-- Email: [saivardhan9154@gmail.com](mailto:saivardhan9154@gmail.com)
-- Phone No: +91 9154466560
+* Machine Learning & Deep Learning
+* Autonomous Vehicles & Intelligent Systems
+* Real-Time Event Processing
+* Scalable Full-Stack Architectures
+* Urban Mobility & Infrastructure Analytics
 
-Feel free to explore my repositories and reach out for questions, ideas, or collaboration opportunities!
+---
+
+## 📫 Let's Connect
+
+* **LinkedIn**: [Chinuri Sai Vardhan Reddy](https://www.linkedin.com/in/sai-vardhan522b)
+* **Email**: [saivardhan9154@gmail.com](mailto:saivardhan9154@gmail.com)
+* **Phone**: +91 91544 66560
+
+Feel free to explore my repositories and reach out if you’re interested in **collaborations**, **technical discussions**, or **innovative AI-driven solutions**.
+
+---
