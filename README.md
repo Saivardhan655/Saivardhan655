@@ -1,51 +1,47 @@
-# Hi, I'm Sai Vardhan 👋
+# Chinuri Sai Vardhan Reddy
 
-![AI Engineer](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
+Backend & data-systems focused Software Engineer — building high-throughput data pipelines and scalable backend services. Experienced with Kafka, DBT, Airflow, Django/Flask, Redis and production deployments on Kubernetes. Open to backend / data engineering roles.
 
-💡 **AI Engineer @ Arcadis** | **Machine Learning & Backend Enthusiast**
-🎓 **B.Tech — Computer Science & Engineering (AI & ML)**
-🚀 Building **intelligent systems** for real-world impact in **computer vision, real-time data pipelines, and scalable backend platforms.**
+## Contact
 
----
+- Email: saivardhan9154@gmail.com  
+- LinkedIn: https://linkedin.com/in/sai-vardhan  
+- GitHub: https://github.com/Saivardhan655
 
-## 🔥 What I Do
+## Core skills
 
-* **Computer Vision & ML** → Human action recognition, attentiveness tracking, predictive modeling.
-* **Backend & Systems** → Django/Flask APIs, microservices, real-time event processing (Kafka, Redis).
-* **MLOps & Deployment** → Docker, Kubernetes, AWS Sagemaker, CI/CD pipelines.
-* **Data Analytics** → Urban mobility, infrastructure, and intelligent monitoring.
+- Languages: Python, Java, C++, SQL, JavaScript  
+- Backend & Data Systems: Django, Flask, FastAPI, Redis, Celery, PostgreSQL, TimescaleDB, Kafka, Zookeeper, WebSockets  
+- Data Warehousing & Analytics: Amazon Redshift, DBT, Airflow, materialized views  
+- Cloud & DevOps: AWS (S3, EC2), Docker, Kubernetes, Nginx  
+- Tools: Git, GitHub, Postman, GeoServer
 
----
+## Featured projects
 
-## 🚀 Featured Projects
+- **Urban Traffic Intelligence Pipeline** — Django, DBT, Redshift  
+  Modeled a 3-layer DBT pipeline transforming 10+ live traffic sources into analytics-ready tables; built a Django API to serve real-time KPI dashboards and congestion anomaly detection across city junctions.
 
-* 🎥 **Human Action Recognition** — Video classification using ResNet50 & TensorFlow.
-* 🧑‍🏫 **Student Attentiveness Tracking** — CV-based distraction/drowsiness/emotion detection with real-time feedback.
-* 🛠️ **Dynamic Rule Engine** — Python AST-powered evaluator for live eligibility checks.
-* 📊 **Stock & Diamond Price Predictors** — End-to-end ML pipelines with regression models + CI/CD automation.
-* 🌦️ **Weather Alerts System** — Kafka + PostgreSQL event-driven microservices with Dockerized deployment.
-* ⚡ **Helmet Detection** — Video upload → WebSocket → Django → AWS Sagemaker async inference → S3 results with Redis progress updates.
-* 🌐 **Digital Twins Platform** — Django-based city analytics system integrating traffic, congestion, and infrastructure data.
+- **Human Action Recognition** — Deep Learning, EfficientNet, LSTM  
+  Trained a video classification model (92% accuracy) and automated an inference API for lightweight deployment.
 
----
+- **Student Attentiveness Monitor (summerInternship)** — CV, LSTM, real-time processing  
+  Real-time attention and drowsiness detection pipeline using facial landmarks, head-pose, and an LSTM sequence model; includes preprocessing, training and inference scripts.
 
-## 💡 Interests
+## Experience highlights
 
-* AI for Finance (Algo Trading, Market Intelligence)
-* Real-Time Systems & Event Processing
-* Deep Learning Architectures (CNNs, Transformers, GNNs, MoE)
-* Scalable Full-Stack & Cloud Deployments
-* Urban Mobility & Smart Infrastructure
+- **Arcadis IBI Group — Software Engineer (Backend & Data)**  
+  Built high-throughput Kafka ingestion (10k+ events/sec), DBT+Airflow pipelines into Redshift, TimescaleDB materialized views, and a Redis-backed low-latency backend for an e-attendance system.
 
----
+## Education & certs
 
-## 📫 Connect With Me
+- B.E. in AI & Machine Learning — University College Of Engineering, OU  
+- Deep Learning Specialization (Coursera) — Stanford University
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/sai-vardhan522b)
-* 📧 [Email](mailto:saivardhan9154@gmail.com)
-* 📱 +91 91544 66560
+## Quick links
+
+- Top repos: [summerInternship](https://github.com/Saivardhan655/summerInternship) · [Mlops-jenkins](https://github.com/Saivardhan655/Mlops-jenkins) · [mongoDBconnectingpkg](https://github.com/Saivardhan655/mongoDBconnectingpkg)  
+- Resume (source): (add link to hosted PDF if you want)
 
 ---
 
-⭐️ Always open for **collaborations, research discussions, and innovative AI-driven solutions**.
-
+Open to backend / data engineering roles and collaborations — email me at saivardhan9154@gmail.com or connect on LinkedIn.
